@@ -4,3 +4,4 @@
 문제풀이 및 해설에 문제가 있거나 질문이 있으시면 cnb.monster@gmail.com 으로 연락부탁드립니다.
 
 1. SIGN : [Enumerated Oriented Gene Orderings](https://velog.io/@pdestiny2537/Enumerating-Oriented-Gene-Orderings)
+2. SSEQ : [Finding a Spliced Motif](https://velog.io/@pdestiny2537/Finding-a-Spliced-Motif)
