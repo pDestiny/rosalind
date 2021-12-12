@@ -9,3 +9,4 @@
 4. TREE : [Completing a Tree](https://velog.io/@pdestiny2537/Completing-a-Tree)
 5. CAT : [Catalan Numbers and RNA Secondary Structures](https://velog.io/@pdestiny2537/Catalan-Numbers-and-RNA-Secondary-Structures)
 6. CORR : [Error Correction in Reads](https://velog.io/@pdestiny2537/Error-Correction-in-Reads)
+7. KMER : k-Mer Composition
